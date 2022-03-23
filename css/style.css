@@ -56,9 +56,13 @@ header {
   margin: 10px 0;
 }
 
-.flexbox {
+.flex {
   display: flex;
 }
-p {
-  color: red;
+
+#coming-soon {
+  text-align: center;
+  font-size: 6rem;
+  font-weight: bold;
+  padding: 100px;
 }
