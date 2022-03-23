@@ -1,0 +1,64 @@
+/*Colours:
+Black: hsl(0, 100%, 0%)
+Secondary Black: hsl(30, 5%, 7%)
+Accent Gold: hsl(44, 46%, 53%)
+*/
+
+/* CSS RESET START */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+ol,
+ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* CSS RESET END */
+
+body {
+  background-color: hsl(0, 100%, 0%);
+  color: hsl(0, 0%, 100%);
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  background-color: hsl(30, 5%, 7%);
+  height: 84px;
+  padding: 10px 0px 10px 0;
+  align-items: center;
+}
+
+#main-logo {
+  width: 200px;
+  margin: 10px 0;
+}
+
+.flexbox {
+  display: flex;
+}
+p {
+  color: pink;
+}
