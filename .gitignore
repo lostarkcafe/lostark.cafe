@@ -1,1 +1,11 @@
-design/
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
+# Dependency directories
+node_modules/

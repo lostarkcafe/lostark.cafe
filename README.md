@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/lostarkcafe-white.png" />
+  <img src="./public/img/lostarkcafe-white.png" />
 </p>
 # Lost Ark Cafe
 This will be a daily/weekly task tracker. Eventually planning on adding much more functionality in the future.  
