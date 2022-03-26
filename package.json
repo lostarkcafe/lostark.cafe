@@ -1,0 +1,35 @@
+{
+  "name": "lostarkcafe",
+  "version": "0.0.1",
+  "description": "Lost Ark Daily tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostarkcafe/lostarkcafe.github.io.git"
+  },
+  "keywords": [
+    "lost",
+    "ark",
+    "daily",
+    "weekly",
+    "una",
+    "mokoko",
+    "tea",
+    "cafe",
+    "coffee",
+    "rapport"
+  ],
+  "author": "Keifer Erikson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostarkcafe/lostarkcafe.github.io/issues"
+  },
+  "homepage": "https://github.com/lostarkcafe/lostarkcafe.github.io#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
