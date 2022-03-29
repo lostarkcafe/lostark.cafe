@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo/lostarkcafelogo-light.png" />
+  <img src="public/images/logo/lostarkcafelogo-light.png" />
 </p>
 
 # Lost Ark Cafe
